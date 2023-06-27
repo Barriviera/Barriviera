@@ -1,11 +1,12 @@
-<img align="right" width="250px" style="margin-top:-40px" src="https://cdn.discordapp.com/attachments/1055520531870392350/1110715631894007818/avatar_3.gif">
-
-<br>
 
 ## Eai, Devs!!<br> Sou o Pedro Barriviera
 
+<img align="right" width="320px" src="https://cdn.discordapp.com/attachments/1055520531870392350/1110715631894007818/avatar_3.gif">
+
 <a>Um estudante de Engenharia de Computação no Instituto Federal de São Paulo, entusiasta da
 tecnologia e apaixonado por aprender coisas novas😁<a>
+
+<img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barriviera&locale=en&langs_count=8&layout=compact&title_color=E6EDF3&text_color=E6EDF3&bg_color=00000000&border_radius=15&border_color=00000000&size_weight=0.5&count_weight=0.5"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -21,7 +22,7 @@ tecnologia e apaixonado por aprender coisas novas😁<a>
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
-  
+
   ##
   
 <div> 
