@@ -1,5 +1,5 @@
 
-## Eai, Devs!!<br> Sou o Pedro Barriviera
+## Eai, Devs!!<br> Sou o Pedro
 
 <img align="right" width="280px" src="https://cdn.discordapp.com/attachments/1055520531870392350/1110715631894007818/avatar_3.gif">
 
