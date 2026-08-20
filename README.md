@@ -1,5 +1,3 @@
-<img align="left" width="250px" style="margin-top:-40px" src="https://s13.gifyu.com/images/bnWoD.gif">
-
 
 # Hey, Devs! 👋
 ## I'm Pedro
